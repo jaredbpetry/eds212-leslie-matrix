@@ -67,3 +67,4 @@ fish_year6 <- fish_leslie %*% fish_year5
 fish_year6
 ```
 
+## making a change to stage, commit and push to git hub through the terminial that is not here 
